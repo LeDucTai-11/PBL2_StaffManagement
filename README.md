@@ -8,21 +8,21 @@
 ## Các chức năng của chương trình 
 
 1. Đọc thông tin nhân viên vào từ file NhanVien.txt <br/>
-  1.1 Khi đường dẫn file bị sai 
+  1.1 Khi đường dẫn file bị sai <br/>
     <img src="https://res.cloudinary.com/do3z6xzso/image/upload/v1668664780/PBL2_StaffManagement/315524495_8170218116381489_4011865317525334823_n_f8ilhf.png"/>
-  1.2 Khi đọc file thành công
+  1.2 Khi đọc file thành công <br/>
     <img src="https://res.cloudinary.com/do3z6xzso/image/upload/v1668664780/PBL2_StaffManagement/315524495_8170218116381489_4011865317525334823_n_f8ilhf.png"/>
 2. Xuất tất cả nhân viên vào file NHANVIEN_out.txt <br/>
   <img src="https://res.cloudinary.com/do3z6xzso/image/upload/v1668667941/PBL2_StaffManagement/filetxt_tdkfev.png" />
 3. Xuất danh sách nhân viên <br/>
-  3.1 Xuất tất cả nhân viên
+  &ensp;3.1 Xuất tất cả nhân viên
     <img src="https://res.cloudinary.com/do3z6xzso/image/upload/v1668666236/PBL2_StaffManagement/ds_huamp0.png"/>
-  3.2 Xuất tất cả nhân viên theo chi nhánh <br/>
-    3.2.1 Chi Nhánh Hồ Chí Minh
+  &ensp;3.2 Xuất tất cả nhân viên theo chi nhánh <br/>
+    &ensp;3.2.1 Chi Nhánh Hồ Chí Minh
       <img src="https://res.cloudinary.com/do3z6xzso/image/upload/v1668666236/PBL2_StaffManagement/hcm_nptjdj.png"/>
-    3.2.2 Chi Nhánh Hà Nội
+    &ensp;3.2.2 Chi Nhánh Hà Nội
       <img src="https://res.cloudinary.com/do3z6xzso/image/upload/v1668666236/PBL2_StaffManagement/hn_hdqt8j.png"/>
-    3.2.3 Chi Nhánh Đà Nẵng
+    &ensp;3.2.3 Chi Nhánh Đà Nẵng
       <img src="https://res.cloudinary.com/do3z6xzso/image/upload/v1668666236/PBL2_StaffManagement/danang_uyiwgn.png"/>
 4. Xóa nhân viên
   <img src="https://res.cloudinary.com/do3z6xzso/image/upload/v1668666732/PBL2_StaffManagement/xoa_tcql5v.png" />
