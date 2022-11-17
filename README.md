@@ -11,7 +11,7 @@
   1.1 Khi đường dẫn file bị sai <br/>
     <img src="https://res.cloudinary.com/do3z6xzso/image/upload/v1668664780/PBL2_StaffManagement/315524495_8170218116381489_4011865317525334823_n_f8ilhf.png"/> <br/>
   1.2 Khi đọc file thành công <br/>
-    <img src="https://res.cloudinary.com/do3z6xzso/image/upload/v1668664780/PBL2_StaffManagement/315524495_8170218116381489_4011865317525334823_n_f8ilhf.png"/>
+    <img src="https://res.cloudinary.com/do3z6xzso/image/upload/v1668664807/PBL2_StaffManagement/315521636_516556630363266_7940904788959339795_n_qorkxi.png"/>
 2. Xuất tất cả nhân viên vào file NHANVIEN_out.txt <br/>
   <img src="https://res.cloudinary.com/do3z6xzso/image/upload/v1668667941/PBL2_StaffManagement/filetxt_tdkfev.png" />
 3. Xuất danh sách nhân viên <br/>
